@@ -1,4 +1,4 @@
-# Hey, I'm Yasha 👋
+# Hey, I'm Oshan Rai 👋
 
 I build things for the web and occasionally break them too.
 
