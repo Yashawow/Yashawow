@@ -1,28 +1,70 @@
-# Hey, I'm Oshan Rai 👋
+# 🐉 Oshan Rai
 
-I build things for the web and occasionally break them too.
-
----
-
-### 🛠️ What I work with
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&width=600&lines=Oshan+Rai;Aspiring+Developer;Web+Builder;Future+Full+Stack+Dev;Code+Like+a+Dragon+🔥" />
+</p>
 
 ---
 
-### 🌱 Currently
+## ⚔️ About Me
 
-- Learning & building cool stuff on the web
-- Open to collabs and new ideas
-
----
-
-### 📫 Find me
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Yashawow)
+- 💻 Aspiring Web Developer  
+- 🧠 Learning something new every day  
+- 🔥 Turning ideas into real-world projects  
+- 🐉 Calm mindset, aggressive growth  
 
 ---
 
-*thanks for stopping by! ✌️*
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Design-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 🚀 Current Mission
+
+- ⚡ Building real-world projects  
+- 🎯 Improving frontend + backend skills  
+- 🤝 Open to collaborations  
+- 🔥 Becoming better than yesterday  
+
+---
+
+## 🐲 Developer Mindset
+
+> "Stay low. Keep building. Let results speak."  
+
+> "Break → Learn → Build → Repeat."  
+
+---
+
+## 📊 GitHub Stats
+
+![Oshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashawow&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashawow&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Yashawow/Yashawow/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Yashawow)
+
+---
+
+## ☠️ Final Words
+
+> Code. Break. Fix. Repeat.  
+> That’s the real grind.
+
+---
+
+✨ *Welcome to my digital world.*
